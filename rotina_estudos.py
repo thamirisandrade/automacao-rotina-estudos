@@ -3,7 +3,7 @@ import time
 
 pyautogui.PAUSE = 1
 
-print("O robô vai iniciar sua rotina de estudos em 3 segundos...")
+print("iniciar sua rotina de estudos em 3 segundos...")
 time.sleep(3)
 
 # Abre o Chrome pelo menu Iniciar
